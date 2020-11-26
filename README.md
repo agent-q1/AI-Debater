@@ -30,6 +30,6 @@ RETURN a
 
 This is a small test example (which can be easily swapped out for real data) to allow us to see how the working of the algorithm. 
 
-Running `find_next_argument()` on the current graph with a `depth = 2` yields Node 3 as the next argument. 
+Running `find_next_argument()` on the current graph with a `depth = 2` on node 1 yields Node 3 as the next argument. 
 
 ![alt text](./Pictures/Example_Output.png)
